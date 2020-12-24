@@ -14,23 +14,31 @@
   width: 100%;
   height: 200px;
   background-image: url(img.chapter6_exercise/box1.jpg);
+  background-size: cover;
+  background-position: center;
 }
 
 .image2 {
   width: 100%;
   height: 200px;
   background-image: url(img.chapter6_exercise/box2.jpg);
+  background-size: cover;
+  background-position: center;
 }
 
 .image3 {
   width: 100%;
   height: 200px;
   background-image: url(img.chapter6_exercise/box3.jpg);
+  background-size: cover;
+  background-position: center;
 }
 
 .image4 {
   width: 100%;
   height: 200px;
   background-image: url(img.chapter6_exercise/box4.jpg);
+  background-size: cover;
+  background-position: center;
 }
 
