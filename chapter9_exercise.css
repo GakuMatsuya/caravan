@@ -18,12 +18,14 @@ main {
 .flow {
   width: 960px;
   margin: 50px auto;
+  display: flex;
 }
 
 .flow-item {
   width: 300px;
   background-color: #eeeeee;
   position: relative;
+  margin-right: 30px;
 }
 
 .flow-image {
