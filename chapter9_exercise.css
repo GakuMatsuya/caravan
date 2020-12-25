@@ -10,6 +10,63 @@ header {
   background: #ff9a4b;
 }
 
+main {
+  width: 960px;
+  margin: 50px auto;
+}
+
+.flow {
+  width: 960px;
+  margin: 50px auto;
+}
+
+.flow-item {
+  width: 300px;
+  background-color: #eeeeee;
+  position: relative;
+}
+
+.flow-image {
+  height: 150px;
+  margin: 10px 10px 0 10px;
+}
+
+.image1 {
+  background-image: url(img.chapter9_exercise/flow01.png);
+  background-size: cover;
+  background-position: center;
+}
+
+.image2 {
+  background-image: url(img.chapter9_exercise/flow02.png);
+  background-size: cover;
+  background-position: center;
+}
+
+.image3 {
+  background-image: url(img.chapter9_exercise/flow03.png);
+  background-size: cover;
+  background-position: center;
+}
+
+.flow-text {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.flow-text-heading {
+  padding-top: 15px;
+  padding-bottom: 5px;
+}
+
+span {
+  color: #fff;
+  background-color: #ff9a4b;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
 footer {
   width: 100%;
   height: 50px;
