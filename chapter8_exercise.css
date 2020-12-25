@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.list {
+  width: 960px;
+  padding: 50px 0;
+}
+
+.list-item:nth-child(odd) {
+  padding: 20px 0px 20px 20px;
+  line-height: 40px;
+  background-color: #f7f7f7;
+}
+
+.list-item:nth-child(even) {
+  padding: 20px 0px 20px 20px;
+  line-height: 40px;
+}
