@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  color: #6c6b6b;
 }
 
 .main-visual {
@@ -16,12 +15,11 @@
 .main-visual-text {
   padding: 20px;
   font-size: 30px;
-  font-weight: bold;
 }
 
 main {
   width: 840px;
-  margin: 0 auto;
+  margin: 50px auto;
   padding-bottom: 20px;
 }
 
@@ -29,8 +27,25 @@ main {
   padding-top: 50px;
 }
 
-.content-item {
+.content-item1 {
   padding-bottom: 30px;
   margin-bottom: 30px;
-  border-bottom: 2px solid #f7f7f7;
+  border-bottom: 1px solid #f7f7f7;
+}
+
+.content-item2 {
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid #f7f7f7;
+}
+
+.content-item3 {
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid #f7f7f7;
+}
+
+.content-item4 {
+  padding-bottom: 30px;
+  border-bottom: 1px solid #f7f7f7;
 }
